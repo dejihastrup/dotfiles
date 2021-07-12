@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deji.hastrup@gmail.com
+	name = Deji Hastrup
